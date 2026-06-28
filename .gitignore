@@ -1,0 +1,13 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# User files
+*.vs.db
+*.vs.opendb
